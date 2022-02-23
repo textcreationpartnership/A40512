@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>From our womens yearly meeting held at York the 19th. and 20th. days of the fourth mounth. 1700</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40512</idno>
+            <idno type="STC">Wing F2240</idno>
+            <idno type="STC">ESTC R220309</idno>
+            <idno type="EEBO-CITATION">99831728</idno>
+            <idno type="PROQUEST">99831728</idno>
+            <idno type="VID">36195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>From our womens yearly meeting held at York the 19th. and 20th. days of the fourth mounth. 1700</title>
+                  <author>Taylor, Elizabeth, of York. aut</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 4: Elizabeth Taylor [and 10 others].</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Women --  England --  York --  Early works to 1800.</term>
+               <term>Women --  Religious life --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36195:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <opener>
+               <dateline>From our Womens Yearly Meeting held at <hi>York</hi> 
+                  <date>the 19th. and 20th. days of the Fourth mo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nth. 1700.</date>
+               </dateline>
+            </opener>
+            <p>WE being Mett together to wait upon the Lord, to feel his Heavenly Power to inable us to per<g ref="char:EOLhyphen"/>form our Chriſtian duties we owe unto the Lord, and one unto another: for he hath been pleaſed to regard the low eſtates of his hand-Maids, and in his wonted kind<g ref="char:EOLhyphen"/>neſs hath accompanied our meeting with his Heavenly preſ<g ref="char:EOLhyphen"/>ence, and viſited our Souls with his unchangeable Love to the gladding of our hearts to-gether. And here hath been ſeverall Teſtimonies born amongſt us to our great comfort and Confirmation. And we have received Teſtimonies in writing from the moſt of our monthly meetings, of the care and Concern of friends. And Some have given a-good account of the proſperity, and Increaſe of Truth, and Condeſcention of friends to a Reformation in ſeverall things that are wanting, and we hope in future time will be amended.</p>
+            <p>And now friends, we could well do no leſs, then give in this ſhort account of the Concerns of this our Solemn Aſſembly, deſiring your due Care in the wiſdom of God to man<g ref="char:EOLhyphen"/>age the Affaires of Truth in every monthly meeting. For we being vnder a weighty Concern of the great Love of God in Seperating of us, from the worlds vaine Cuſtoms, fooliſh Faſhions, and traditions: And by his power mak<g ref="char:EOLhyphen"/>ing a Remnant willing to loſe the favour of Relations,
+<pb n="2" facs="tcp:36195:2"/>
+               <!-- PDF PAGE 20 -->
+and acquaintance for denying cuſtomary Feaſtings, at mar<g ref="char:EOLhyphen"/>riages, births and burialls, at feaſt times, mas-times, faſt dayes, and all other vaine Sportings, and paſtimes: And ſome for teſtifying againſt them have been deep Sufferers. Therefore we deſire Friends care in every particular Meet<g ref="char:EOLhyphen"/>ing, that none profeſsing the ſame Truth, may practice thoſe things which others ſuffered for denying: And that the Antients keep to their plainneſs, and the Simplicity of the Truth which is unchangeable in it-ſelf; and admits not of any change in us, neither doth it ſuffer our children, or ſervants to mix with the world in any of theſe things.</p>
+            <p>And we deſire our queries from our laſt Quarterly Meet<g ref="char:EOLunhyphen"/>ing may be put in practice, which is needful, not onely ſo, but where any thing is wanting, that may be as weighty: For we deſire in all things, we may do to others, as we would they ſhould do to us, and give no accaſion to <hi>Jew</hi> nor <hi>Gentile;</hi> but keep a Conſcience void of offence both towards God and Man; and as much as in us lyes, live peaceably with all, and do good unto all, eſpecially un<g ref="char:EOLhyphen"/>to the houſehould of faith: For ſurely, friends, a blame<g ref="char:EOLhyphen"/>leſs life, and righteous converſation reaches the witneſs in others, and ſtops the mouths of Gain-ſayers.</p>
+            <p>And where any go into any thing of diſorder, which cauſe<g ref="char:EOLhyphen"/>es the way of Truth to be evill ſpoken of, as in the dayes of old: Such may be dealt with, according to order now eſtabliſhed. Many admonitions ſuch have had from this place: much we could write, but we would be ſhort.</p>
+            <p>For there are more Meetings now erected, and Friends have the opportunity of inquiring one of another, the oftner, and hearing one from another, how the affairs of Truth are car<g ref="char:EOLhyphen"/>ryed on in every monthly Meeeing, which we hope may be of good ſervice; as Friends are freely given up in the wiſdom
+<pb n="3" facs="tcp:36195:2"/>
+               <!-- PDF PAGE 20 -->
+of God to attend theſe Meetings, and in his counſell to manage Truths Concerns.</p>
+            <p>And we alſo deſire, there may be no backwardneſs in Friends in helping in this ſervice, for if wo was pronounc<g ref="char:EOLhyphen"/>ed againſt thoſe that wrought the Lords worke careleſly, or with negligent minds, what will it be for thoſe that will not worke it at all, nor lend a hand to help it on. <hi>Jael was comended for putting her hand to the worke, and her right hand to the work-Mans hammer: Deborah, Dorcas,</hi> and <hi>Lidia</hi> with many others, who were Co-workers, and Fellow labourers, whoſe Teſtimonies are leſt upon Record, that have been a Comfort and Incouragement to us. And truly Friends, great Incouragement we have had from the Lord, and cauſe to Incourage one another, as living members of one body, which cannot ſay to each other we have no need of thee; For there is need of all, and ſervice for all, in building the walls of <hi>Jeruſalem, repairing her waſtes, and making up the breaches in Sion.</hi>
+            </p>
+            <p>And take heed of letting in hard thoughts, one againſt another and be not too hard one upon another about things ſerviceable, which gives no occaſion, but be carefull to preſerve vnity. But things needleſs, and Superfluous, that give occaſion, thoſe teſtify againſt: And do not reflect one upon another, ſaying the worke hath been long in hand, and little done, There is a great deal to do yet, And truly Friends, we believe, there will be woke for the People of the Lord in all Ages: We could be glad, if through our travell, future Ages might have more eaſe.</p>
+            <p>And now young Women, who feel a Concern upon you for the Honour of the Lord in your day: We deſire your faithfullneſs, and your help, and care for good Order, and Church diſcipline: For you are very near, and dear to us, and we are comforted in you, and incouraged, that when
+<pb n="4" facs="tcp:36195:3"/>
+               <!-- PDF PAGE 21 -->
+we ſhall be diſſovled, and gone to our reſt; Our Heavenly Father (whoſe tender care hath been over us to this very day living praiſes to him for ever) we believe will enable you to carry on his worke, to his Honour, your Souls Comfort, and his Peoples good.</p>
+            <p>Now Friends, we know we have hinted at theſe things in our former Teſtimonies from this place, ſo that we have no new thing to write, yet we hope we may be born in ſtirring up the pure minde one in another, and puting one another in remem<g ref="char:EOLhyphen"/>berance of performing theſe things.</p>
+            <p>And we deſire this Teſtimony may be accepted, and received in the ſame love in which it is given forth: And we al<g ref="char:EOLhyphen"/>ſo deſire, that our former Teſtimonyes given from this place may not be loſt, but be gathered up in every month<g ref="char:EOLhyphen"/>ly Meeting, and kept in ſome particular hand, if happily there may be ſervice for them in future time.</p>
+            <p>
+               <hi>Alſo we deſire, that care be taken that ſome weighty Friends of every monthly Meeting do attend the next Quarterly Meeting.</hi>
+            </p>
+            <closer>
+               <signed>Signed on the behalfe of the Meeting by us
+<list>
+                     <item>Elizabeth Taylor.</item>
+                     <item>Katharine Win.</item>
+                     <item>Mary Wh<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>te.</item>
+                     <item>Deborah Win.</item>
+                     <item>Alice Ellis.</item>
+                     <item>Elizabeth Yeall.</item>
+                     <item>Rachel Linſkill.</item>
+                     <item>Margaret Smith.</item>
+                     <item>Mary Burgeſs.</item>
+                     <item>Elizabeth Broadhead.</item>
+                     <item>Mary Oddy.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
